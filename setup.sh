@@ -24,3 +24,4 @@ git remote add vidalm https://github.com/vidalm/GridIn.git
 git remote add camillebeluffi https://github.com/camillebeluffi/GridIn.git
 git remote add acaudron https://github.com/acaudron/GridIn.git
 git remote add AlexandreMertens https://github.com/AlexandreMertens/GridIn.git
+git remote add mdelcourt https://github.com/mdelcourt/GridIn.git
